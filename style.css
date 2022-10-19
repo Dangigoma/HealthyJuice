@@ -1,0 +1,63 @@
+h2 {
+    background-color: #6b0080;
+    color: white;
+    border: 20px;
+    padding: 10px 1px 10px 5px;
+}
+li.home {
+    display: inline;
+        padding: 20px;
+        background-color: orange;
+        margin: 5px;
+        float: center;
+}
+li.nutrition {
+        display: inline;
+        padding: 20px;
+        background-color: pink;
+        margin: 5px;
+}
+li.contact {
+        display: inline;
+        padding: 20px;
+        background-color: green;
+        margin: 5px;
+}
+li.form {
+        display: inline;
+        padding: 20px;
+        background-color: purple;
+        margin: 5px;
+}
+li.gallery {
+        display: inline;
+        padding: 20px;
+        background-color: blue;
+        margin: 5px;
+}
+
+
+a {
+    color: white;
+
+}
+header {
+    padding: 10px;
+    background-color: rgb(128, 105, 0);
+    color: white;
+    text-align: center;
+    border: dotted pink;
+    width: 1000px;
+    float: right;
+        }
+.scroll {
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+    overflow: auto;
+}
+body {
+    margin: 20px 10px 20px 10px;
+    padding: 2px 4px 2px 4px;
+
+}
